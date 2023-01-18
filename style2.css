@@ -1,6 +1,6 @@
 @font-face {
     font-family: lato;
-    src: url(../fonts/Lato\ \(1\).zip);
+    src: url(Lato\ \(1\).zip);
   }
 body{
     margin: 0 !important;
@@ -8,7 +8,7 @@ body{
 
 }
 .maindiv{
-    background-image: url(../img/Rectangle\ 3.png) !important;
+    background-image: url(Rectangle\ 3.png) !important;
     background-size: cover !important;
     background-position: center !important;
 max-width: 100% !important;
@@ -206,7 +206,7 @@ font-family: "Lato" ;
     margin-top: -50px;
 }
 .img5{
-    background-image: url(../img/man2.png);
+    background-image: url(man2.png);
     background-repeat: no-repeat;
     
     display: inline-block;
@@ -237,7 +237,7 @@ border-radius: 50% !important;
 
 }
 .img6{
-    background-image: url(../img/man1.png);
+    background-image: url(man1.png);
     background-repeat: no-repeat;
     background-position:center;
     display: inline-block;
@@ -265,7 +265,7 @@ border-radius: 50% !important;
     margin-top: 50px;
 }
 .maindiv2{
-    background-image: url(../img/Rectangle\ 4.png);
+    background-image: url(Rectangle\ 4.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -315,7 +315,7 @@ margin-top: -25px;
 }
 
 .img7{
-    background-image: url(../img/iPhone\ 7\ Silver1\ copy.png);
+    background-image: url(iPhone\ 7\ Silver1\ copy.png);
     background-size: cover;
     background-repeat: no-repeat;
 position: relative;
@@ -327,7 +327,7 @@ position: relative;
   flex-wrap: wrap;
 }
 .phonecover{
-background-image: url(../img/Rectangle\ 5.png);
+background-image: url(Rectangle\ 5.png);
 background-size: cover;
 background-repeat: no-repeat;
 height: 519px;
@@ -415,7 +415,7 @@ background-image: linear-gradient(0deg, #eb402c 0%, #d80546 100%);
 
 }
 .icon{
-    background-image: url(../img/Your_App_Icon\ .png);
+    background-image: url(Your_App_Icon\ .png);
     background-size: cover;
     background-repeat: no-repeat;
     width:170px;
@@ -442,7 +442,7 @@ text-align: center;
 margin: auto;
 }
 .applink{
-    background-image: url(../img/Layer\ 2.png);
+    background-image: url(Layer\ 2.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 190px;
